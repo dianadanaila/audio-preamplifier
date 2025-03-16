@@ -3,7 +3,7 @@
 Developed a **Voltage-Controlled Audio Preamplifier** using **OrCAD** and **PCB Editor**.
 
 ##  Schematic 
-<img src="https://github.com/user-attachments/assets/91a73388-3216-4e60-b719-5374682b0200" alt="Poza_schema" width="800">  
+<img src="https://github.com/user-attachments/assets/91a73388-3216-4e60-b719-5374682b0200" alt="Poza_schema" width="600">  
 
 
 ## PCB Design  
